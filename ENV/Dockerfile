@@ -1,0 +1,4 @@
+FROM almalinux:9
+ENV COURSE="DOCKER" \
+    DURATION="10HRS" \
+    TRAINER="SIVA"
